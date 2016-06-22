@@ -1,0 +1,3 @@
+http://www.inside-r.org/howto/finding-data-internet
+https://vincentarelbundock.github.io/Rdatasets/datasets.html
+http://data.worldbank.org/indicator/SP.RUR.TOTL
